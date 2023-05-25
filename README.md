@@ -18,7 +18,7 @@ The analysis was performed using Python libraries such as Pandas, Matplotlib, an
 The analysis provides insights into the performance of different product categories, customer satisfaction levels, and other key metrics. This information can be useful for individuals or businesses interested in similar analyses or using the data set for their own research purposes.
 
 # Usage
-To run the analysis, you will need to have Python and the required libraries installed. Clone the repository and open the Jupyter Notebook file. The notebook contains the code used for the analysis, including importing and cleaning the data, creating pivot tables, and generating visualizations.
+ The Excel file contains the methods used for the analysis, including importing and cleaning the data, creating pivot tables, and generating visualizations.
 To view the interactive visualizations created using Power BI, open the Supermarket_Analysis.pbix file.
 
 # Credits
